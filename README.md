@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋!  I'm Kanishq V., a B.Tech student in Artificial Intelligence and Data Science at SIMATS University.
+
+I'm passionate about all things logical and, more importantly, _interesting!_ ✨  Here, you'll find projects that explore the intersection of logic, graphics, data, and a sprinkle of intrigue.
