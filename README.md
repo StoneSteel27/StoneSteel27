@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 I'm Kanishq V., a B.Tech student in Artificial Intelligence and Data Science at SIMATS University.
 
 I'm passionate about all things logical and, more importantly, _interesting!_ ✨  Here, you'll find projects that explore the intersection of logic, graphics, data, and a sprinkle of intrigue.
-
-Links:
-- Resume: [Resume](https://github.com/StoneSteel27/StoneSteel27/blob/main/My_Resume.pdf)
-- Upwork(Freelacing): [Kanishq V. Upwork Profile](https://www.upwork.com/freelancers/~01aaba1b9d61c2ecff?mp_source=share)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kanishq-vijay/)
